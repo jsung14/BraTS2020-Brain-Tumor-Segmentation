@@ -12,9 +12,9 @@ The BraTS 2020 dataset consists of multimodal Magnetic Resonance Imaging (MRI) s
 
 The dataset is used for:
 <br><br>Task 1: Brain tumor segmentation (different sub-regions like necrotic tumor core, peritumoral edema, and enhancing tumor).
-<br>Task 2: Predicting overall survival.
-<br>Task 3: Distinguishing between pseudoprogression and true tumor recurrence.
-<br>Task 4: Estimating uncertainty in segmentation.
+<br>Task 2: Predicting overall survival. (Ongoing)
+<br>Task 3: Distinguishing between pseudoprogression and true tumor recurrence. (Ongoing)
+<br>Task 4: Estimating uncertainty in segmentation. (Ongoing)
 ## Project Tasks
 1. Tumor Segmentation: Using a U-Net-based architecture to segment tumor subregions from multimodal MRI scans.
 2. Overall Survival Prediction: Predicting patient overall survival using radiomic features extracted from tumor segmentations.<br>
